@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 127079101b491a7468345fa7ef29f774, type: 3}
+  m_Name: jez
+  m_EditorClassIdentifier: 
+  Instancja: {fileID: 1488567540530560589, guid: 97085d5c5f6542141a95ef1524243e3d, type: 3}
+  matka: {fileID: 0}
+  gatunek: 1
+  model: {fileID: 6638278243774944388, guid: 17cc718acde5d5c4ca3b3c040da47dc7, type: 3}
+  wiek: 0
+  sila: 2
+  inicjatywa: 3
+  polozenie: {x: 0, y: 0, z: 0}
+  swiat: {fileID: 11400000, guid: 9e8da92963573bc439adb863e9811128, type: 2}
+  rysunek: {fileID: 0}

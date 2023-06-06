@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 127079101b491a7468345fa7ef29f774, type: 3}
+  m_Name: Zmija
+  m_EditorClassIdentifier: 
+  Instancja: {fileID: 1488567540530560589, guid: 97085d5c5f6542141a95ef1524243e3d, type: 3}
+  matka: {fileID: 0}
+  gatunek: 3
+  model: {fileID: 351915471900489446, guid: ceba1f0ef19f095448bb5b7e97953ac1, type: 3}
+  wiek: 0
+  sila: 2
+  inicjatywa: 2
+  polozenie: {x: 0, y: 0, z: 0}
+  swiat: {fileID: 11400000, guid: 9e8da92963573bc439adb863e9811128, type: 2}
+  rysunek: {fileID: 0}
